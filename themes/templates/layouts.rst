@@ -34,7 +34,7 @@ Here is an example from the Smarty documentation:
   </html>
 
 
-**child.tpl file **
+**child.tpl file**
 
 .. code-block:: smarty
 
